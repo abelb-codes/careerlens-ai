@@ -42,19 +42,19 @@ export const testimonials = [
   {
     quote:
       "We replaced three screening tools with CareerLens. Our recruiters ship shortlists the same day now.",
-    name: "Priya Rao",
-    role: "Head of Talent, Northwind",
+    name: "Tesfa",
+    role: "Head of Talent, company1",
   },
   {
     quote:
       "The reasoning panel is the killer feature. Every ranking is defensible in an audit.",
-    name: "Marcus Weiss",
-    role: "VP People, Kepler",
+    name: "Degaga",
+    role: "VP People, campany2",
   },
   {
     quote:
       "My resume score jumped 34 points in one pass. I landed two interviews the same week.",
-    name: "Sofia Alvarez",
+    name: "Abel",
     role: "Product Designer",
   },
 ];

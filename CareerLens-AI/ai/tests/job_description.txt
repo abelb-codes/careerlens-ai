@@ -1,0 +1,15 @@
+Backend Developer
+
+Requirements:
+- Python
+- Django
+- PostgreSQL
+- REST APIs
+- Git
+- Docker
+
+Experience:
+2+ years
+
+Education:
+Bachelor's Degree

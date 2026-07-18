@@ -85,7 +85,7 @@ function HeroPreview() {
             <span className="h-2.5 w-2.5 rounded-full bg-success/70" />
           </div>
           <div className="ml-4 flex-1 truncate rounded-md bg-secondary/60 px-3 py-1 text-xs text-muted-foreground">
-            careerlens.ai/recruiter/evaluations/eval_7f2
+            careerlensaiabel.vercel.app
           </div>
         </div>
         <div className="grid gap-6 p-6 md:grid-cols-[1.4fr_1fr]">
@@ -146,7 +146,7 @@ function HeroPreview() {
 }
 
 function LogoStrip() {
-  const logos = ["Northwind", "Kepler", "Aperture", "Monolith", "Helix", "Vellum"];
+  const logos = ["company1", "company2", "company3", "company4", "company5", "company6"];
   return (
     <section className="mx-auto max-w-6xl px-6 pb-16">
       <div className="text-center text-xs uppercase tracking-widest text-muted-foreground">

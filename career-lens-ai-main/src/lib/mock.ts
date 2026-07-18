@@ -1,5 +1,5 @@
 export const stats = [
-  { label: "Resumes analyzed", value: "100++" },
+  { label: "Resumes analyzed", value: "100+" },
   { label: "Enterprise teams", value: "10+" },
   { label: "Avg. time-to-shortlist", value: "3.2 min" },
   { label: "Bias reduction", value: "68%" },

@@ -1,6 +1,6 @@
 export const stats = [
-  { label: "Resumes analyzed", value: "1.4M+" },
-  { label: "Enterprise teams", value: "3,200" },
+  { label: "Resumes analyzed", value: "100++" },
+  { label: "Enterprise teams", value: "10+" },
   { label: "Avg. time-to-shortlist", value: "3.2 min" },
   { label: "Bias reduction", value: "68%" },
 ];
@@ -95,7 +95,7 @@ export const pricing = [
   },
   {
     name: "Recruiter",
-    price: "$49",
+    price: "499 birr",
     period: "/ user / month",
     desc: "For hiring managers and small teams.",
     features: [
@@ -126,22 +126,22 @@ export const pricing = [
 ];
 
 export const resumeHistory = [
-  { id: "r-1042", name: "Sofia_Alvarez_Product.pdf", date: "Oct 14, 2026", status: "Completed", ats: 92, match: 88 },
-  { id: "r-1041", name: "Sofia_Alvarez_Design.pdf", date: "Oct 11, 2026", status: "Completed", ats: 84, match: 79 },
-  { id: "r-1040", name: "Resume_v3_final.docx", date: "Oct 04, 2026", status: "Completed", ats: 71, match: 66 },
-  { id: "r-1039", name: "Resume_v2.pdf", date: "Sep 28, 2026", status: "Completed", ats: 63, match: 58 },
-  { id: "r-1038", name: "Resume_v1.pdf", date: "Sep 20, 2026", status: "Completed", ats: 52, match: 47 },
+  { id: "r-1042", name: "Abel_Bekele.pdf", date: "Oct 14, 2026", status: "Completed", ats: 92, match: 88 },
+  { id: "r-1041", name: "Degaga_Emiru.pdf", date: "Oct 11, 2026", status: "Completed", ats: 84, match: 79 },
+  { id: "r-1040", name: "Mock_data.docx", date: "Oct 04, 2026", status: "Completed", ats: 71, match: 66 },
+  { id: "r-1039", name: "Tesfa.pdf", date: "Sep 28, 2026", status: "Completed", ats: 63, match: 58 },
+  { id: "r-1038", name: "Mock_data2.pdf", date: "Sep 20, 2026", status: "Completed", ats: 52, match: 47 },
 ];
 
 export const candidates = [
-  { id: "c-01", name: "Amelia Chen", role: "Senior Product Designer", ats: 96, match: 94, exp: "7y", edu: "MFA, RISD", rec: "Strong hire" },
-  { id: "c-02", name: "Rahul Menon", role: "Product Designer", ats: 92, match: 91, exp: "6y", edu: "BFA, NID", rec: "Strong hire" },
-  { id: "c-03", name: "Nora Bakr", role: "Senior UX Designer", ats: 89, match: 87, exp: "8y", edu: "MSc HCI, UCL", rec: "Hire" },
-  { id: "c-04", name: "Ken Watanabe", role: "Product Designer", ats: 84, match: 83, exp: "5y", edu: "BDes, Musashino", rec: "Hire" },
-  { id: "c-05", name: "Lea Novak", role: "Interaction Designer", ats: 81, match: 79, exp: "4y", edu: "BA, Central Saint Martins", rec: "Consider" },
-  { id: "c-06", name: "Diego Ortiz", role: "Design Engineer", ats: 78, match: 76, exp: "6y", edu: "BSc CS, ITAM", rec: "Consider" },
-  { id: "c-07", name: "Hana Park", role: "UX Researcher", ats: 74, match: 71, exp: "3y", edu: "MSc, KAIST", rec: "Consider" },
-  { id: "c-08", name: "Tomás Silva", role: "Product Designer", ats: 68, match: 64, exp: "2y", edu: "BFA, USP", rec: "Weak" },
+  { id: "c-01", name: "Abel_Bekele", role: "Senior Product Designer", ats: 96, match: 94, exp: "7y", edu: "MFA, RISD", rec: "Strong hire" },
+  { id: "c-02", name: "Degaga_Emiru", role: "Product Designer", ats: 92, match: 91, exp: "6y", edu: "BFA, NID", rec: "Strong hire" },
+  { id: "c-03", name: "Example1", role: "Senior UX Designer", ats: 89, match: 87, exp: "8y", edu: "MSc HCI, UCL", rec: "Hire" },
+  { id: "c-04", name: "Example2", role: "Product Designer", ats: 84, match: 83, exp: "5y", edu: "BDes, Musashino", rec: "Hire" },
+  { id: "c-05", name: "Tesfa", role: "Interaction Designer", ats: 81, match: 79, exp: "4y", edu: "BA, Central Saint Martins", rec: "Consider" },
+  { id: "c-06", name: "Tesfa Michael", role: "Design Engineer", ats: 78, match: 76, exp: "6y", edu: "BSc CS, ITAM", rec: "Consider" },
+  { id: "c-07", name: "Mock", role: "UX Researcher", ats: 74, match: 71, exp: "3y", edu: "MSc, KAIST", rec: "Consider" },
+  { id: "c-08", name: "Mock2a", role: "Product Designer", ats: 68, match: 64, exp: "2y", edu: "BFA, USP", rec: "Weak" },
 ];
 
 export const jobs = [
